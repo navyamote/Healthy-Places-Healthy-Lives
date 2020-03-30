@@ -1,0 +1,134 @@
+NAME,LHD,LHD_val,Group,Group_val
+"Alleghany County, Virginia",Alleghany LHD,1,Alleghany-Roanoke,1
+"Botetourt County, Virginia",Alleghany LHD,1,Alleghany-Roanoke,1
+"Craig County, Virginia",Alleghany LHD,1,Alleghany-Roanoke,1
+"Roanoke County, Virginia",Alleghany LHD,1,Alleghany-Roanoke,1
+"Covington city, Virginia",Alleghany LHD,1,Alleghany-Roanoke,1
+"Salem city, Virginia",Alleghany LHD,1,Alleghany-Roanoke,1
+"Roanoke city, Virginia",Roanoke LHD,2,Alleghany-Roanoke,1
+"Augusta County, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Bath County, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Highland County, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Rockbridge County, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Rockingham County, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Buena Vista city, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Harrisonburg city, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Lexington city, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Staunton city, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Waynesboro city, Virginia",Central Shenandoah LHD,3,Central Shenandoah,2
+"Amherst County, Virginia",Central Virginia LHD,4,Central Virginia,3
+"Appomattox County, Virginia",Central Virginia LHD,4,Central Virginia,3
+"Bedford County, Virginia",Central Virginia LHD,4,Central Virginia,3
+"Campbell County, Virginia",Central Virginia LHD,4,Central Virginia,3
+"Lynchburg city, Virginia",Central Virginia LHD,4,Central Virginia,3
+"Charles City County, Virginia",Chickominy LHD,5,Chickahominy,4
+"Goochland County, Virginia",Chickominy LHD,5,Chickahominy,4
+"Hanover County, Virginia",Chickominy LHD,5,Chickahominy,4
+"New Kent County, Virginia",Chickominy LHD,5,Chickahominy,4
+"Dinwiddie County, Virginia",Crater LHD,6,Crater,5
+"Greensville County, Virginia",Crater LHD,6,Crater,5
+"Prince George County, Virginia",Crater LHD,6,Crater,5
+"Surry County, Virginia",Crater LHD,6,Crater,5
+"Sussex County, Virginia",Crater LHD,6,Crater,5
+"Emporia city, Virginia",Crater LHD,6,Crater,5
+"Hopewell city, Virginia",Crater LHD,6,Crater,5
+"Petersburg city, Virginia",Crater LHD,6,Crater,5
+"Chesterfield County, Virginia",Chesterfield LHD,7,Greater Richmond,6
+"Powhatan County, Virginia",Chesterfield LHD,7,Greater Richmond,6
+"Colonial Heights city, Virginia",Chesterfield LHD,7,Greater Richmond,6
+"Henrico County, Virginia",Henrico LHD,8,Greater Richmond,6
+"Richmond city, Virginia",Richmond LHD,9,Greater Richmond,6
+"Chesapeake city, Virginia",Chesapeake LHD,10,Hampton Roads,7
+"Hampton city, Virginia",Hampton LHD,11,Hampton Roads,7
+"Norfolk city, Virginia",Norfolk LHD,12,Hampton Roads,7
+"Portsmouth city, Virginia",Portsmouth LHD,13,Hampton Roads,7
+"Virginia Beach city, Virginia",Virginia Beach LHD,14,Hampton Roads,7
+"Clarke County, Virginia",Lord Fairfax LHD,15,Lord Fairfax,8
+"Frederick County, Virginia",Lord Fairfax LHD,15,Lord Fairfax,8
+"Page County, Virginia",Lord Fairfax LHD,15,Lord Fairfax,8
+"Shenandoah County, Virginia",Lord Fairfax LHD,15,Lord Fairfax,8
+"Warren County, Virginia",Lord Fairfax LHD,15,Lord Fairfax,8
+"Winchester city, Virginia",Lord Fairfax LHD,15,Lord Fairfax,8
+"Floyd County, Virginia",New River LHD,16,New River,9
+"Giles County, Virginia",New River LHD,16,New River,9
+"Montgomery County, Virginia",New River LHD,16,New River,9
+"Pulaski County, Virginia",New River LHD,16,New River,9
+"Radford city, Virginia",New River LHD,16,New River,9
+"Alexandria city, Virginia",Alexandria LHD,17,Northern Virginia,10
+"Arlington County, Virginia",Arlington LHD,18,Northern Virginia,10
+"Fairfax County, Virginia",Fairfax LHD,19,Northern Virginia,10
+"Fairfax city, Virginia",Fairfax LHD,19,Northern Virginia,10
+"Falls Church city, Virginia",Fairfax LHD,19,Northern Virginia,10
+"Loudoun County, Virginia",Loudoun LHD,20,Northern Virginia,10
+"James City County, Virginia",Peninsula LHD,21,Peninsula,11
+"York County, Virginia",Peninsula LHD,21,Peninsula,11
+"Newport News city, Virginia",Peninsula LHD,21,Peninsula,11
+"Poquoson city, Virginia",Peninsula LHD,21,Peninsula,11
+"Williamsburg city, Virginia",Peninsula LHD,21,Peninsula,11
+"Amelia County, Virginia",Piedmont LHD,22,Piedmont-Southside,12
+"Buckingham County, Virginia",Piedmont LHD,22,Piedmont-Southside,12
+"Charlotte County, Virginia",Piedmont LHD,22,Piedmont-Southside,12
+"Cumberland County, Virginia",Piedmont LHD,22,Piedmont-Southside,12
+"Lunenburg County, Virginia",Piedmont LHD,22,Piedmont-Southside,12
+"Nottoway County, Virginia",Piedmont LHD,22,Piedmont-Southside,12
+"Prince Edward County, Virginia",Piedmont LHD,22,Piedmont-Southside,12
+"Brunswick County, Virginia",Southside LHD,23,Piedmont-Southside,12
+"Halifax County, Virginia",Southside LHD,23,Piedmont-Southside,12
+"Mecklenburg County, Virginia",Southside LHD,23,Piedmont-Southside,12
+"Pittsylvania County, Virginia",Danville LHD,24,Pittsylvania-Danville,13
+"Danville city, Virginia",Danville LHD,24,Pittsylvania-Danville,13
+"Prince William County, Virginia",Prince William LHD,25,Prince William,14
+"Manassas city, Virginia",Prince William LHD,25,Prince William,14
+"Manassas Park city, Virginia",Prince William LHD,25,Prince William,14
+"Buchanan County, Virginia",Cumberland Plateau LHD,26,Southwest Virginia,15
+"Dickenson County, Virginia",Cumberland Plateau LHD,26,Southwest Virginia,15
+"Russell County, Virginia",Cumberland Plateau LHD,26,Southwest Virginia,15
+"Tazewell County, Virginia",Cumberland Plateau LHD,26,Southwest Virginia,15
+"Lee County, Virginia",Lenowisco LHD,27,Southwest Virginia,15
+"Scott County, Virginia",Lenowisco LHD,27,Southwest Virginia,15
+"Wise County, Virginia",Lenowisco LHD,27,Southwest Virginia,15
+"Norton city, Virginia",Lenowisco LHD,27,Southwest Virginia,15
+"Bland County, Virginia",Mount Rogers LHD,28,Southwest Virginia,15
+"Carroll County, Virginia",Mount Rogers LHD,28,Southwest Virginia,15
+"Grayson County, Virginia",Mount Rogers LHD,28,Southwest Virginia,15
+"Smyth County, Virginia",Mount Rogers LHD,28,Southwest Virginia,15
+"Washington County, Virginia",Mount Rogers LHD,28,Southwest Virginia,15
+"Wythe County, Virginia",Mount Rogers LHD,28,Southwest Virginia,15
+"Bristol city, Virginia",Mount Rogers LHD,28,Southwest Virginia,15
+"Galax city, Virginia",Mount Rogers LHD,28,Southwest Virginia,15
+"Albemarle County, Virginia",Thomas Jefferson LHD,29,Thomas Jefferson,16
+"Fluvanna County, Virginia",Thomas Jefferson LHD,29,Thomas Jefferson,16
+"Greene County, Virginia",Thomas Jefferson LHD,29,Thomas Jefferson,16
+"Louisa County, Virginia",Thomas Jefferson LHD,29,Thomas Jefferson,16
+"Nelson County, Virginia",Thomas Jefferson LHD,29,Thomas Jefferson,16
+"Charlottesville city, Virginia",Thomas Jefferson LHD,29,Thomas Jefferson,16
+"Caroline County, Virginia",Rappahannock LHD,30,Upper Rappahannock River,17
+"King George County, Virginia",Rappahannock LHD,30,Upper Rappahannock River,17
+"Spotsylvania County, Virginia",Rappahannock LHD,30,Upper Rappahannock River,17
+"Stafford County, Virginia",Rappahannock LHD,30,Upper Rappahannock River,17
+"Fredericksburg city, Virginia",Rappahannock LHD,30,Upper Rappahannock River,17
+"Culpeper County, Virginia",Rappahannock Rapidan LHD,31,Upper Rappahannock River,17
+"Fauquier County, Virginia",Rappahannock Rapidan LHD,31,Upper Rappahannock River,17
+"Madison County, Virginia",Rappahannock Rapidan LHD,31,Upper Rappahannock River,17
+"Orange County, Virginia",Rappahannock Rapidan LHD,31,Upper Rappahannock River,17
+"Rappahannock County, Virginia",Rappahannock Rapidan LHD,31,Upper Rappahannock River,17
+"Accomack County, Virginia",Eastern Shore LHD,32,Chesapeake,18
+"Northampton County, Virginia",Eastern Shore LHD,32,Chesapeake,18
+"Essex County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"Gloucester County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"King and Queen County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"King William County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"Lancaster County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"Mathews County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"Middlesex County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"Northumberland County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"Richmond County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"Westmoreland County, Virginia",Three Rivers LHD,33,Chesapeake,18
+"Henry County, Virginia",West Piedmont LHD,34,West Piedmont,19
+"Patrick County, Virginia",West Piedmont LHD,34,West Piedmont,19
+"Martinsville city, Virginia",West Piedmont LHD,34,West Piedmont,19
+"Franklin County, Virginia",West Piedmont LHD,34,West Piedmont,19
+"Isle of Wight County, Virginia",Western Tidewater LHD,35,Western Tidewater,20
+"Southampton County, Virginia",Western Tidewater LHD,35,Western Tidewater,20
+"Franklin city, Virginia",Western Tidewater LHD,35,Western Tidewater,20
+"Suffolk city, Virginia",Western Tidewater LHD,35,Western Tidewater,20
